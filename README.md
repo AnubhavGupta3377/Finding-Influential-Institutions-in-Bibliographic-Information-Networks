@@ -1,19 +1,9 @@
-***********************************
-*     Author : Anubhav Gupta      *
-***********************************
-
-This is the code used in KDD Cup 2016 solution "Finding
-Influential Institutions in Bibliographic Information
-Networks". This solution achieved 11th position in the
-contest. Full paper describing the solution is available
-at "https://arxiv.org/abs/1612.08644".
-
-=================================================
-      Instructions for running this code
-=================================================
+# Finding Influential Institutions in Bibliographic Information Network
+- This is the code used in KDD Cup 2016 solution "Finding Influential Institutions in Bibliographic Information Networks". This solution achieved 11th position in the contest. Full paper describing the solution is available at "https://arxiv.org/abs/1612.08644".
 
 
--->  Download following files in directory "data":
+## Instructions for running this code
+- Download following files in directory "data":
 
 #File
 #Column number	Column description
@@ -82,9 +72,6 @@ PaperReferences.txt
 1	Paper ID
 2	Paper reference ID
     
--->  The code is available in the directory named "Code".
-
--->  All the code is written in Python 2.7
-
--->  To run the code, go to the directory "Code" and run the
-	file "main.py".
+-  The code is available in the directory named "Code".
+-  All the code is written in Python 2.7
+-  To run the code, go to the directory "Code" and run the file "main.py".
