@@ -7,14 +7,15 @@
 - Download following files in directory **data**:
 - Followint columns should be present in each file
 
-    ### SelectedAffiliations.txt
+    - SelectedAffiliations.txt
     |1|Affiliation ID|
     |-|--------------|
     |2|Affiliation name|
 
-    Authors.txt
-    1	Author ID
-    2	Author name
+    - Authors.txt
+    |1|Author ID|
+    |-|----------|
+    |2|Author name|
 
     Conferences.txt
     1	Conference series ID
