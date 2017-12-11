@@ -92,3 +92,6 @@
 - The code is available in the directory named "Code".
 -  All the code is written in Python 2.7 
 -  To run the code, go to the directory "Code" and run the file "main.py".
+
+## Author
+- **Anubhav Gupta**
