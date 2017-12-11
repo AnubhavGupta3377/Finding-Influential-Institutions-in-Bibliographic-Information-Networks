@@ -19,9 +19,9 @@
 
     #### Conferences.txt
     |1|	Conference series ID|
-    |--|----|
+    |||
     |2|	Short name (abbreviation)|
-    |--|----|
+    |||
     |3|	Full name|
 
     #### ConferenceInstances.txt
