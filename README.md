@@ -7,43 +7,43 @@
 - Download following files in directory **data**:
 - Followint columns should be present in each file
 
-    #### SelectedAffiliations.txt ####
+    #### SelectedAffiliations.txt
     |1|Affiliation ID|
     |-|--------------|
     |2|Affiliation name|
 
-    #### Authors.txt ####
+    #### Authors.txt
     |1|Author ID|
     |-|----------|
     |2|Author name|
 
-    Conferences.txt
-    1	Conference series ID
-    2	Short name (abbreviation)
-    3	Full name
+    #### Conferences.txt
+    |1|	Conference series ID|
+    |2|	Short name (abbreviation)|
+    |3|	Full name|
 
-    ConferenceInstances.txt
-    1	Conference series ID
-    2	Conference instance ID
-    3	Short name (abbreviation)
-    4	Full name
-    5	Location
-    6	Official conference URL
-    7	Conference start date
-    8	Conference end date
-    9	Conference abstract registration date
-    10	Conference submission deadline date
-    11	Conference notification due date
-    12	Conference final version due date
+    #### ConferenceInstances.txt
+    |1|	Conference series ID|
+    |2|	Conference instance ID|
+    |3|	Short name (abbreviation)|
+    |4|	Full name|
+    |5|	Location|
+    |6|	Official conference URL|
+    |7|	Conference start date|
+    |8|	Conference end date|
+    |9|	Conference abstract registration date|
+    |10|	Conference submission deadline date|
+    |11|	Conference notification due date|
+    |12|	Conference final version due date|
 
-    FieldOfStudyHierarchy.txt
+    #### FieldOfStudyHierarchy.txt
     1	Child field of study ID
     2	Child field of study level
     3	Parent field of study ID
     4	Parent field of study level
     5	Confidence
 
-    SelectedPapers.txt
+    #### SelectedPapers.txt
     1	Paper ID
     2	Original paper title
     3	Normalized paper title
@@ -56,7 +56,7 @@
     10	Conference series ID mapped to venue name
     11	Paper rank
 
-    PaperAuthorAffiliations.txt
+    #### PaperAuthorAffiliations.txt
     1	Paper ID
     2	Author ID
     3	Affiliation ID 
@@ -64,12 +64,12 @@
     5	Normalized affiliation name
     6	Author sequence number
 
-    PaperKeywords.txt
+    #### PaperKeywords.txt
     1	Paper ID
     2	Keyword name
     3	Field of study ID mapped to keyword
 
-    PaperReferences.txt
+    #### PaperReferences.txt
     1	Paper ID
     2	Paper reference ID
 
