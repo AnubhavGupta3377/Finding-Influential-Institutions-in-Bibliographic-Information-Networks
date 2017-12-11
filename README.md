@@ -3,9 +3,9 @@
 - This solution achieved 11th position in the contest. Full paper describing the solution is available at https://arxiv.org/abs/1612.08644
 
 
-## Instructions for running this code
+## Instructions to run the code
 - Download following files in directory **data**:
-- Followint columns should be present in each file
+- Following columns should be present in each file
 
     #### SelectedAffiliations.txt
     |Col #|Col Name|
@@ -89,6 +89,6 @@
     |1|	Paper ID|
     |2|	Paper reference ID|
 
-    -  The code is available in the directory named "Code".
-    -  All the code is written in Python 2.7
-    -  To run the code, go to the directory "Code" and run the file "main.py".
+- The code is available in the directory named "Code".
+-  All the code is written in Python 2.7 
+-  To run the code, go to the directory "Code" and run the file "main.py".
