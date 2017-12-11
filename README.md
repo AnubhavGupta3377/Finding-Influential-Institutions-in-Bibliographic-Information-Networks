@@ -1,16 +1,18 @@
 # Finding Influential Institutions in Bibliographic Information Network
-- This is the code used in KDD Cup 2016 solution "Finding Influential Institutions in Bibliographic Information Networks". This solution achieved 11th position in the contest. Full paper describing the solution is available at "https://arxiv.org/abs/1612.08644".
+- This is the code used in KDD Cup 2016 solution "Finding Influential Institutions in Bibliographic Information Networks".
+- This solution achieved 11th position in the contest. Full paper describing the solution is available at https://arxiv.org/abs/1612.08644
 
 
 ## Instructions for running this code
-- Download following files in directory "data":
+- Download following files in directory **data**:
 
 #File
 #Column number	Column description
 
-SelectedAffiliations.txt
-1	Affiliation ID
-2	Affiliation name
+### SelectedAffiliations.txt
+|1|Affiliation ID|
+|-|--------------|
+|2|Affiliation name|
 
 Authors.txt
 1	Author ID
