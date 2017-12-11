@@ -8,23 +8,27 @@
 - Followint columns should be present in each file
 
     #### SelectedAffiliations.txt
-    |1|Affiliation ID|
+    |Col #|Col Name|
     |-|--------------|
+    |1|Affiliation ID|
     |2|Affiliation name|
 
     #### Authors.txt
+    |Col #|Col Name|
+    |-|---------|
     |1|Author ID|
-    |-|----------|
     |2|Author name|
 
     #### Conferences.txt
-    |1|	Conference series ID|
+    |Col #|Col Name|
     |-|---------------------|
+    |1|	Conference series ID|
     |2|	Short name (abbreviation)|
-    |-|-------------------------|
     |3|	Full name|
 
     #### ConferenceInstances.txt
+    |Col #|Col Name|
+    |-|---------------------|
     |1|	Conference series ID|
     |2|	Conference instance ID|
     |3|	Short name (abbreviation)|
@@ -39,41 +43,51 @@
     |12|	Conference final version due date|
 
     #### FieldOfStudyHierarchy.txt
-    1	Child field of study ID
-    2	Child field of study level
-    3	Parent field of study ID
-    4	Parent field of study level
-    5	Confidence
+    |Col #|Col Name|
+    |-|---------------------|
+    |1|	Child field of study ID|
+    |2|	Child field of study level|
+    |3|	Parent field of study ID|
+    |4|	Parent field of study level|
+    |5|	Confidence|
 
     #### SelectedPapers.txt
-    1	Paper ID
-    2	Original paper title
-    3	Normalized paper title
-    4	Paper publish year
-    5	Paper publish date 
-    6	Paper Document Object Identifier (DOI)
-    7	Original venue name
-    8	Normalized venue name
-    9	Journal ID mapped to venue name
-    10	Conference series ID mapped to venue name
-    11	Paper rank
+    |Col #|Col Name|
+    |-|---------------------|
+    |1|	Paper ID|
+    |2|	Original paper title|
+    |3|	Normalized paper title|
+    |4|	Paper publish year|
+    |5|	Paper publish date |
+    |6|	Paper Document Object Identifier (DOI)|
+    |7|	Original venue name|
+    |8|	Normalized venue name|
+    |9|	Journal ID mapped to venue name|
+    |10|	Conference series ID mapped to venue name|
+    |11|	Paper rank|
 
     #### PaperAuthorAffiliations.txt
-    1	Paper ID
-    2	Author ID
-    3	Affiliation ID 
-    4	Original affiliation name
-    5	Normalized affiliation name
-    6	Author sequence number
+    |Col #|Col Name|
+    |-|---------------------|
+    |1|	Paper ID|
+    |2|	Author ID|
+    |3|	Affiliation ID |
+    |4|	Original affiliation name|
+    |5|	Normalized affiliation name|
+    |6|	Author sequence number|
 
     #### PaperKeywords.txt
-    1	Paper ID
-    2	Keyword name
-    3	Field of study ID mapped to keyword
+    |Col #|Col Name|
+    |-|---------------------|
+    |1|	Paper ID|
+    |2|	Keyword name|
+    |3|	Field of study ID mapped to keyword|
 
     #### PaperReferences.txt
-    1	Paper ID
-    2	Paper reference ID
+    |Col #|Col Name|
+    |-|---------------------|
+    |1|	Paper ID|
+    |2|	Paper reference ID|
 
     -  The code is available in the directory named "Code".
     -  All the code is written in Python 2.7
